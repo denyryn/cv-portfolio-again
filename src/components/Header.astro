@@ -6,11 +6,12 @@ import GitHub from "./icons/GitHub.astro";
 import Email from "./icons/Email.astro";
 import Phone from "./icons/Phone.astro";
 import Globe from "./icons/Globe.astro";
+import Document from './icons/Document.astro';
 
 import {Image} from 'astro:assets'
 import avatarImage from '../assets/avatar.jpeg';
 
-const {name, about, personalWebsiteUrl, contact, location, locationLink} = CV_DATA;
+const {name, about, personalWebsiteUrl, contact, location, locationLink, cvDocumentUrl} = CV_DATA;
 ---
 <header class="flex items-center justify-between">
     <div class="flex-1 space-y-1.5">
@@ -32,6 +33,9 @@ const {name, about, personalWebsiteUrl, contact, location, locationLink} = CV_DA
         </p>
         <div class="flex list-none gap-x-1 pt-1 font-mono text-sm text-foreground/80 print:hidden"
              aria-label="Contact links">
+            <LinkButton href={cvDocumentUrl} ariaLabel="Website">
+                <Document class="size-4"/>
+            </LinkButton>
             <LinkButton href={personalWebsiteUrl} ariaLabel="Website">
                 <Globe class="size-4"/>
             </LinkButton>

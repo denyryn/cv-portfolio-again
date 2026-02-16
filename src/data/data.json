@@ -1,0 +1,123 @@
+{
+  "name": "Deny Rianto",
+  "title": "Fullstack Software Engineer",
+  "location": "Semarang, Indonesia",
+  "locationLink": "https://www.google.com/maps/place/semarang",
+  "about": "Fullstack Engineer building scalable, production-grade web and mobile applications.",
+  "summary": "Fullstack Developer with hands-on experience delivering national-scale platforms, government systems, and healthcare integrations. Specialized in Next.js and Laravel, with strong focus on clean architecture, performance, and remote collaboration.",
+  "cvDocumentUrl": "http://link.ryntryna.my.id/cv",
+  "personalWebsiteUrl": "https://ryntryna.my.id",
+  "contact": {
+    "email": "denyryn@outlook.com",
+    "tel": "+6289664818032",
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/denyryn"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/denyrianto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Azura Labs",
+      "link": "https://www.azuralabs.id",
+      "title": "Fullstack Engineer",
+      "start": "September 2025",
+      "end": "February 2026",
+      "description": "Contributed to the development of national-scale competition, government, and healthcare systems.",
+      "achievements": [
+        "Built and delivered a major feature for a national-level competition platform, collaborating directly with stakeholders and shipping ahead of schedule.",
+        "Owned approximately 35% of total development for a government project and presented solutions directly to end users.",
+        "Developed a critical hospital integration with Indonesia’s national health system, coordinating closely with hospital IT teams."
+      ],
+      "badges": [
+        "Next.js",
+        "Nuxt.js",
+        "Spring Boot",
+        "Laravel",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "Scrum"
+      ]
+    },
+    {
+      "company": "PT. Muri Digital Grup Internasional",
+      "link": "#",
+      "title": "Mobile Developer",
+      "start": "April 2025",
+      "end": "June 2025",
+      "description": "Developed a cross-platform mobile application in a remote Agile team.",
+      "achievements": [
+        "Built cross-platform mobile features using React Native, Expo, and Redux.",
+        "Integrated backend APIs to ensure seamless data flow and state management.",
+        "Collaborated in Agile workflows including sprint planning and iterative delivery."
+      ],
+      "badges": [
+        "React Native",
+        "Expo",
+        "Redux",
+        "REST API",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Katresna Creations",
+      "link": "https://katresna.web.id",
+      "title": "Owner & Fullstack Developer",
+      "start": "March 2025",
+      "end": "Present",
+      "description": "Own and maintain a digital service platform built end-to-end.",
+      "achievements": [
+        "Architected and developed the platform using Next.js, Strapi, PostgreSQL, and S3 storage.",
+        "Implemented SSR and SEO optimizations to improve performance and discoverability.",
+        "Automated CI/CD pipelines using Coolify and managed self-hosted deployment infrastructure.",
+        "Collaborated with UI/UX designers to deliver a high-performance user experience."
+      ],
+      "badges": [
+        "Next.js",
+        "Strapi",
+        "PostgreSQL",
+        "S3",
+        "Docker",
+        "CI/CD",
+        "Coolify",
+        "System Architecture"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Semarang State Polytechnic",
+      "degree": "Diploma 4, Computer Engineering Technology",
+      "start": "2022",
+      "end": "2026",
+      "details": "GPA: 3.86 / 4.00"
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Laravel",
+    "Spring Boot",
+    "Strapi",
+    "PostgreSQL",
+    "REST API",
+    "Docker",
+    "CI/CD",
+    "Git",
+    "SEO Optimization",
+    "SSR",
+    "System Architecture",
+    "Agile",
+    "Scrum"
+  ]
+}
