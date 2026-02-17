@@ -1,7 +1,7 @@
 services:
-  dzhuk-cv-site:
-    image: zhukdi/dzhuk-cv:latest
-    container_name: dzhuk-cv-site
+  ryntryna-cv-site:
+    image: ryntrynsa/ryntryna-cv:latest
+    container_name: ryntryna-cv-site
     ports:
      - "8080:80"
     restart: unless-stopped
