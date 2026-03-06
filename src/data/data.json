@@ -47,23 +47,6 @@
       ]
     },
     {
-      "company": "Wisma Nabila Group",
-      "link": "#",
-      "title": "Web Developer Freelance",
-      "start": "September 2024",
-      "end": "November 2024",
-      "description": "Developed a WordPress-based company profile website.",
-      "achievements": [
-        "Designed and developed a responsive company profile website using WordPress and Elementor.",
-        "Customized page layouts and components to align with the company’s branding and content requirements.",
-        "Optimized website performance, mobile responsiveness, and basic SEO to improve accessibility and user experience."
-      ],
-      "badges": [
-        "WordPress",
-        "Elementor"
-      ]
-    },
-    {
       "company": "PT. Muri Digital Grup Internasional",
       "link": "#",
       "title": "Mobile Developer",
@@ -105,6 +88,23 @@
         "CI/CD",
         "Coolify",
         "System Architecture"
+      ]
+    },
+    {
+      "company": "Wisma Nabila Group",
+      "link": "#",
+      "title": "Web Developer Freelance",
+      "start": "September 2024",
+      "end": "November 2024",
+      "description": "Developed a WordPress-based company profile website.",
+      "achievements": [
+        "Designed and developed a responsive company profile website using WordPress and Elementor.",
+        "Customized page layouts and components to align with the company’s branding and content requirements.",
+        "Optimized website performance, mobile responsiveness, and basic SEO to improve accessibility and user experience."
+      ],
+      "badges": [
+        "WordPress",
+        "Elementor"
       ]
     }
   ],
